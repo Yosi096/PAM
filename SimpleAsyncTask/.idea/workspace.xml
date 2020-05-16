@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32d2fa3d-09b3-4374-9afe-df3b91b6261c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/androidTest/java/yosi/covidinfo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/IntroActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/IntroAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/PrefManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/country/AdapterCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/country/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/country/CountryFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/country/CovidCountryDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/country/ItemClickSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/home/HomeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/info/InfoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/poster/PosterFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/java/yosi/covidinfo/ui/web/WebFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/back.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/bg1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/bottom2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/covid19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/et_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/global.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/hospital.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_settings_phone_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/ic_textsms_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/id.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/img_splash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/information.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/line_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/myposter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/newss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/newsssss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/planetearth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/poster8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/drawable/test5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/font/abril_fatface.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/font/aclonica.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/font/poller_one.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/font/poppins_bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/font/poppins_medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_covid_country_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/fragment_country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/fragment_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/fragment_poster.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/fragment_web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/list_item_covid_country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/slide1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/slide2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/slide3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/slide4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/layout/slide5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/menu/search_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/app/src/test/java/yosi/covidinfo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas-Besar-PAM/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhoWroteIt/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhoWroteIt/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/androidTest/java/yosi/covidinfo/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/IntroActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/IntroAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/PrefManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/country/AdapterCountry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/country/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/country/CountryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/country/CovidCountryDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/country/ItemClickSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/info/InfoFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/poster/PosterFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/java/yosi/covidinfo/ui/web/WebFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/bg1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/bottom2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/btn_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/covid19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/et_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/global.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/hospital.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_settings_phone_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/ic_textsms_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/img_splash.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/line_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/myposter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/newss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/newsssss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/planetearth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/poster8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/drawable/test5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/font/abril_fatface.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/font/aclonica.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/font/poller_one.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/font/poppins_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/font/poppins_medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_covid_country_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_intro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/fragment_country.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/fragment_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/fragment_poster.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/fragment_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/list_item_covid_country.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/slide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/slide3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/slide4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/layout/slide5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/menu/search_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/app/src/test/java/yosi/covidinfo/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CovidInfo/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="14117096" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bykR5oSTQHsLVvYHIiGIymkN0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="14117096" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Yosi_14117096" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d2fa3d-09b3-4374-9afe-df3b91b6261c" name="Default Changelist" comment="" />
+      <created>1586865824297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586865824297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

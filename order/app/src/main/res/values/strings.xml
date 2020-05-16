@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">order</string>
+    <string name="same_day_messenger_service">same_day_messenger_service</string>
+    <string name="next_day_ground_delivery">next_day_ground_delivery</string>
+    <string name="pick_up">pick_up</string>
+    <string-array name="spinner">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
